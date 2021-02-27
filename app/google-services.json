@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1082662839250",
+    "project_id": "lapit-chat-e2b4a",
+    "storage_bucket": "lapit-chat-e2b4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082662839250:android:6eaaed7b31897c800a5e0b",
+        "android_client_info": {
+          "package_name": "com.prajjwal.lapitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082662839250-02g5rfd8vn3saaivl8upm6mh8utqdide.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfwsF7_XXIkfOWfX1J_jT-3rzpjqPkync"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082662839250-02g5rfd8vn3saaivl8upm6mh8utqdide.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082662839250:android:845811988c7c00c10a5e0b",
+        "android_client_info": {
+          "package_name": "com.prajjwal.lapitchatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082662839250-02g5rfd8vn3saaivl8upm6mh8utqdide.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfwsF7_XXIkfOWfX1J_jT-3rzpjqPkync"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082662839250-02g5rfd8vn3saaivl8upm6mh8utqdide.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
